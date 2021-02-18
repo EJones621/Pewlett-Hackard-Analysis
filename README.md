@@ -13,3 +13,8 @@ The following are four major points from the project:
 * There are seven different titles that are affected by employees retiring. Below is a table broken down into how employees are expected to retire soon within each job title:
 
 ![Results](https://github.com/EJones621/Pewlett-Hackard-Analysis/blob/main/RetiringTitles.png)
+
+The two that are more heavily impacted are Senior Engineers and Senior Staff employees. They make up roughly 64% of the number of employees expected to retire.
+
+* There are 1,549 current Pewlett Hackard employees (born in 1965) who are eligible for the mentorship program that would help replace the 90,398 employees. Which would mean each mentor would have roughly 58 to mentor. (90,398 / 1,549 = 58.36)
+* 
