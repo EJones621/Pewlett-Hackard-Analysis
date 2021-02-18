@@ -33,4 +33,4 @@ To go further into the 1,549 eligible employees for the mentorship program, belo
 
 ![Results](https://github.com/EJones621/Pewlett-Hackard-Analysis/blob/main/MentorshipTitles.png)
 
-Potentially another table to add would be employees who are ready for a promotion that will help backfill some of the positions from retired employees. And also add two managers since there are no managers eligible for the mentorship program. 
+Potentially another table to add would be employees who are ready for a promotion that will help backfill some of the positions from retired employees. And also add two managers since there are no managers eligible for the mentorship program.
