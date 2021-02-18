@@ -23,10 +23,10 @@ The two that are more heavily impacted are Senior Engineers and Senior Staff emp
 ## Summary
 To summarize the whole project, two questions need to be answered.
 
-##### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+##### *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
 Since 90,398 employees are expected to retire, that is the number of roles needed to be filled.
 
-##### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+##### *Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
 As previously stated, there are 1,549 eligible employees for the mentorship program, so each mentor will have around 58 future Pewlett Hackard employees.
 
 To go further into the 1,549 eligible employees for the mentorship program, below is a table that breaks down those employees by title. Much like the table that showed which employees that may retire soon along with their title. The only title that is not accounted for are managers, but because there are only two, Pewlett Hackard won't be heavily impacted especially since the company is so large. Upper management can find a different solution. 
